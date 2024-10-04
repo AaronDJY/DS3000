@@ -1,0 +1,677 @@
+Title,Year,Duration,Rating Restriction,Rating,Genre
+1. Thunderbolts*,2025,N/A,N/A,7.8,Action
+2. Transformers One,2024,1h 44m,PG,4.7,Action
+3. Uglies,2024,1h 40m,PG-13,6.9,Action
+4. Rebel Ridge,2024,2h 11m,TV-MA,7.9,Action
+5. Deadpool & Wolverine,2024,2h 8m,R,7.8,Action
+6. The Batman,2022,2h 56m,PG-13,7.0,Action
+7. Civil War,2024,1h 49m,R,4.7,Action
+8. Gladiator II,2024,2h 30m,R,7.5,Action
+9. Red One,2024,2h 3m,PG-13,6.9,Action
+10. Ballerina,2025,N/A,N/A,6.8,Action
+11. The Crow,2024,1h 51m,R,6.6,Action
+12. Furiosa: A Mad Max Saga,2024,2h 28m,R,4.8,Action
+13. The Fall Guy,2024,2h 6m,PG-13,6.6,Action
+14. The Ministry of Ungentlemanly Warfare,2024,2h 2m,R,8.9,Action
+15. Twisters,2024,2h 2m,PG-13,8.5,Action
+16. Hellboy: The Crooked Man,2024,1h 39m,R,7.9,Action
+17. Bad Boys: Ride or Die,2024,1h 55m,R,9.0,Action
+18. The Lord of the Rings: The Fellowship of the Ring,2001,2h 58m,PG-13,8.5,Action
+19. Dune: Part Two,2024,2h 46m,PG-13,6.6,Action
+20. Yudhra,2024,2h 22m,N/A,N/A,Action
+21. The Dark Knight,2008,2h 32m,PG-13,N/A,Action
+22. Sonic the Hedgehog 3,2024,N/A,N/A,N/A,Action
+23. Jurassic World Rebirth,2025,N/A,N/A,N/A,Action
+24. Gladiator,2000,2h 35m,R,N/A,Action
+25. Devara Part 1,2024,2h 56m,N/A,N/A,Action
+Recently viewed,N/A,N/A,N/A,N/A,Action
+1. Thunderbolts*,2025,N/A,N/A,7.8,Adventure
+2. Transformers One,2024,1h 44m,PG,7.7,Adventure
+3. Inside Out 2,2024,1h 36m,PG,4.7,Adventure
+4. Uglies,2024,1h 40m,PG-13,7.9,Adventure
+5. Deadpool & Wolverine,2024,2h 8m,R,8.5,Adventure
+6. The Wild Robot,2024,1h 42m,PG,7.0,Adventure
+7. Civil War,2024,1h 49m,R,7.6,Adventure
+8. Gladiator II,2024,2h 30m,R,7.5,Adventure
+9. Red One,2024,2h 3m,PG-13,6.6,Adventure
+10. Harry Potter and the Sorcerer's Stone,2001,2h 32m,PG,5.7,Adventure
+11. Furiosa: A Mad Max Saga,2024,2h 28m,R,8.7,Adventure
+12. Twisters,2024,2h 2m,PG-13,6.6,Adventure
+13. The Garfield Movie,2024,1h 41m,PG,8.9,Adventure
+14. Interstellar,2014,2h 49m,PG-13,8.5,Adventure
+15. Bad Boys: Ride or Die,2024,1h 55m,R,8.5,Adventure
+16. The Lord of the Rings: The Fellowship of the Ring,2001,2h 58m,PG-13,4.5,Adventure
+17. Dune: Part Two,2024,2h 46m,PG-13,8.1,Adventure
+18. Sonic the Hedgehog 3,2024,N/A,N/A,6.8,Adventure
+19. Jurassic World Rebirth,2025,N/A,N/A,6.9,Adventure
+20. Gladiator,2000,2h 35m,R,N/A,Adventure
+21. Venom: The Last Dance,2024,1h 50m,N/A,N/A,Adventure
+22. Borderlands,2024,1h 41m,PG-13,N/A,Adventure
+23. Inside Out,2015,1h 35m,PG,N/A,Adventure
+24. Hook,1991,2h 22m,PG,N/A,Adventure
+25. Kingdom of the Planet of the Apes,2024,2h 25m,PG-13,N/A,Adventure
+Recently viewed,N/A,N/A,N/A,N/A,Adventure
+1. Transformers One,2024,1h 44m,PG,7.8,Animation
+2. Inside Out 2,2024,1h 36m,PG,7.7,Animation
+3. The Wild Robot,2024,1h 42m,PG,8.5,Animation
+4. The Garfield Movie,2024,1h 41m,PG,5.7,Animation
+5. Inside Out,2015,1h 35m,PG,8.1,Animation
+6. Despicable Me 4,2024,1h 34m,PG,6.2,Animation
+7. IF,2024,1h 44m,PG,6.5,Animation
+8. The Boy and the Heron,2023,2h 4m,PG-13,7.5,Animation
+9. The Lord of the Rings: The War of the Rohirrim,2024,2h 30m,N/A,8.5,Animation
+10. Grave of the Fireflies,1988,1h 28m,Not Rated,7.9,Animation
+11. The Nightmare Before Christmas,1993,1h 16m,PG,7.8,Animation
+12. Coraline,2009,1h 40m,PG,8.2,Animation
+13. Flow,2024,1h 24m,PG,8.6,Animation
+14. Spider-Man: Across the Spider-Verse,2023,2h 20m,PG,8.5,Animation
+15. Moana 2,2024,N/A,N/A,8.6,Animation
+16. The Lion King,1994,1h 28m,G,7.2,Animation
+17. Spirited Away,2001,2h 4m,PG,8.2,Animation
+18. Cars,2006,1h 56m,G,7.0,Animation
+19. Howl's Moving Castle,2004,1h 59m,PG,8.4,Animation
+20. The Super Mario Bros. Movie,2023,1h 32m,PG,5.7,Animation
+21. Mufasa: The Lion King,2024,PG,N/A,8.1,Animation
+22. Dog Man,2025,N/A,N/A,N/A,Animation
+23. Coco,2017,1h 45m,PG,N/A,Animation
+24. Harold and the Purple Crayon,2024,1h 30m,PG,N/A,Animation
+25. Ratatouille,2007,1h 51m,G,N/A,Animation
+Recently viewed,N/A,N/A,N/A,N/A,Animation
+1. Lee,2023,1h 57m,R,7.0,Biography
+2. Saturday Night,2024,1h 49m,R,7.1,Biography
+3. Oppenheimer,2023,3h,R,8.3,Biography
+4. The Apprentice,2024,2h,R,6.5,Biography
+5. Reagan,2024,2h 21m,PG-13,6.2,Biography
+6. Maria,2024,2h 4m,R,8.2,Biography
+7. The Wolf of Wall Street,2013,3h,R,8.7,Biography
+8. Goodfellas,1990,2h 25m,R,6.3,Biography
+9. Back to Black,2024,2h 2m,R,7.8,Biography
+10. American Gangster,2007,2h 37m,R,9.0,Biography
+11. Schindler's List,1993,3h 15m,R,7.8,Biography
+12. Tombstone,1993,2h 10m,R,7.6,Biography
+13. The Iron Claw,2023,2h 12m,R,8.7,Biography
+14. Super/Man: The Christopher Reeve Story,2024,1h 44m,PG-13,6.8,Biography
+15. Skin,2018,1h 58m,R,8.8,Biography
+16. 12th Fail,2023,2h 27m,N/A,6.4,Biography
+17. Napoleon,2023,2h 38m,R,5.8,Biography
+18. Queer,2024,2h 15m,N/A,8.1,Biography
+19. Hacksaw Ridge,2016,2h 19m,R,8.2,Biography
+20. Michael,2025,N/A,N/A,7.6,Biography
+21. Green Book,2018,2h 10m,PG-13,8.3,Biography
+22. Sound of Freedom,2023,2h 11m,PG-13,7.5,Biography
+23. Braveheart,1995,2h 58m,R,7.5,Biography
+24. The Greatest Showman,2017,1h 45m,PG,N/A,Biography
+25. One Life,2023,1h 49m,PG,N/A,Biography
+Recently viewed,N/A,N/A,N/A,N/A,Biography
+1. Beetlejuice Beetlejuice,2024,1h 45m,PG-13,7.0,Comedy
+2. Inside Out 2,2024,1h 36m,PG,7.7,Comedy
+3. Beetlejuice,1988,1h 32m,PG,7.5,Comedy
+4. Deadpool & Wolverine,2024,2h 8m,R,7.9,Comedy
+5. Am I Racist?,2024,1h 40m,PG-13,7.3,Comedy
+6. Red One,2024,2h 3m,PG-13,6.6,Comedy
+7. Kinds of Kindness,2024,2h 44m,R,7.4,Comedy
+8. Stree 2: Sarkate Ka Aatank,2024,2h 27m,N/A,7.5,Comedy
+9. My Old Ass,2024,1h 29m,R,6.9,Comedy
+10. The Fall Guy,2024,2h 6m,PG-13,6.8,Comedy
+11. The Ministry of Ungentlemanly Warfare,2024,2h 2m,R,7.1,Comedy
+12. Saturday Night,2024,1h 49m,R,5.7,Comedy
+13. The Garfield Movie,2024,1h 41m,PG,7.2,Comedy
+14. Challengers,2024,2h 11m,R,8.0,Comedy
+15. Anora,2024,2h 19m,R,6.6,Comedy
+16. Bad Boys: Ride or Die,2024,1h 55m,R,7.3,Comedy
+17. Sonic the Hedgehog 3,2024,N/A,N/A,7.8,Comedy
+18. A Different Man,2024,1h 52m,R,6.8,Comedy
+19. Poor Things,2023,2h 21m,R,4.5,Comedy
+20. Hit Man,2023,1h 55m,R,8.1,Comedy
+21. Borderlands,2024,1h 41m,PG-13,6.8,Comedy
+22. Inside Out,2015,1h 35m,PG,6.1,Comedy
+23. Hook,1991,2h 22m,PG,5.4,Comedy
+24. Anyone But You,2023,1h 43m,R,N/A,Comedy
+25. The Union,2024,1h 47m,PG-13,N/A,Comedy
+Recently viewed,N/A,N/A,N/A,N/A,Comedy
+1. Thunderbolts*,2025,N/A,N/A,6.5,Crime
+2. Wolfs,2024,1h 48m,R,5.5,Crime
+3. Joker: Folie à Deux,2024,2h 18m,R,6.9,Crime
+4. Rebel Ridge,2024,2h 11m,TV-MA,7.8,Crime
+5. The Batman,2022,2h 56m,PG-13,5.6,Crime
+6. Killer Heat,2024,1h 37m,R,6.7,Crime
+7. Longlegs,2024,1h 41m,R,6.0,Crime
+8. Trap,2024,1h 45m,PG-13,4.7,Crime
+9. The Crow,2024,1h 51m,R,8.4,Crime
+10. Joker,2019,2h 2m,R,5.7,Crime
+11. The Thicket,2024,1h 48m,R,6.6,Crime
+12. Bad Boys: Ride or Die,2024,1h 55m,R,9.0,Crime
+13. The Dark Knight,2008,2h 32m,PG-13,9.2,Crime
+14. The Godfather,1972,2h 55m,R,6.8,Crime
+15. Hit Man,2023,1h 55m,R,6.3,Crime
+16. MaXXXine,2024,1h 43m,R,6.3,Crime
+17. Babygirl,2024,1h 54m,R,6.7,Crime
+18. The Bikeriders,2023,1h 56m,R,8.9,Crime
+19. Pulp Fiction,1994,2h 34m,R,6.2,Crime
+20. Despicable Me 4,2024,1h 34m,PG,6.3,Crime
+21. The Beekeeper,2024,1h 45m,R,7.5,Crime
+22. The Crow,1994,1h 42m,R,8.6,Crime
+23. Se7en,1995,2h 7m,R,5.7,Crime
+24. Memory,2022,1h 54m,R,8.2,Crime
+25. The Wolf of Wall Street,2013,3h,R,N/A,Crime
+Recently viewed,N/A,N/A,N/A,N/A,Crime
+1. Am I Racist?,2024,1h 40m,PG-13,7.3,Documentary
+2. From Russia with Lev,2024,1h 32m,N/A,8.6,Documentary
+3. Will & Harper,2024,1h 54m,R,7.5,Documentary
+4. Super/Man: The Christopher Reeve Story,2024,1h 44m,PG-13,8.7,Documentary
+5. We Will Dance Again,2024,1h 30m,N/A,7.7,Documentary
+6. Vindicating Trump,2024,1h 36m,PG-13,3.7,Documentary
+7. What Is a Woman?,2022,1h 35m,N/A,8.2,Documentary
+8. Jailbreak: Love on the Run,2024,1h 28m,TV-MA,6.4,Documentary
+9. Jung Kook: I Am Still,2024,1h 30m,N/A,8.1,Documentary
+10. Child Star,2024,1h 38m,N/A,6.7,Documentary
+11. Tea With the Dames,2018,1h 24m,Unrated,7.4,Documentary
+12. Stopping the Steal,2024,1h 30m,TV-MA,7.5,Documentary
+13. One Hand Clapping,1974,1h 7m,N/A,7.6,Documentary
+14. The Contestant,2023,1h 30m,TV-MA,7.2,Documentary
+15. War Game,2024,1h 34m,N/A,5.4,Documentary
+16. Getting LOST,2024,N/A,N/A,10,Documentary
+17. Three Identical Strangers,2018,1h 36m,PG-13,7.6,Documentary
+18. Fly,2024,1h 50m,R,7.3,Documentary
+19. Strike: An Uncivil War,2024,1h 50m,N/A,7.6,Documentary
+20. Taylor Swift: The Eras Tour,2023,2h 49m,PG-13,8.0,Documentary
+21. Apollo 13: Survival,2024,1h 38m,N/A,7.4,Documentary
+22. Suburban Nightmare: The Menendez Brothers,2022,1h 25m,N/A,6.3,Documentary
+23. ¡Casa Bonita Mi Amor!,2024,1h 28m,N/A,8.0,Documentary
+24. Porn to Be Free,2016,1h 18m,Unrated,6.1,Documentary
+25. Brats,2024,1h 32m,N/A,6.6,Documentary
+Recently viewed,N/A,N/A,N/A,N/A,Documentary
+1. The Substance,2024,2h 21m,R,7.9,Drama
+2. Thunderbolts*,2025,N/A,N/A,5.1,Drama
+3. Megalopolis,2024,2h 18m,R,5.5,Drama
+4. Joker: Folie à Deux,2024,2h 18m,R,7.0,Drama
+5. Speak No Evil,2024,1h 50m,R,7.7,Drama
+6. Inside Out 2,2024,1h 36m,PG,4.7,Drama
+7. Uglies,2024,1h 40m,PG-13,6.6,Drama
+8. It Ends with Us,2024,2h 10m,PG-13,6.9,Drama
+9. Rebel Ridge,2024,2h 11m,TV-MA,7.2,Drama
+10. His Three Daughters,2023,1h 41m,R,7.8,Drama
+11. The Batman,2022,2h 56m,PG-13,5.6,Drama
+12. Killer Heat,2024,1h 37m,R,7.0,Drama
+13. Gladiator II,2024,2h 30m,R,6.6,Drama
+14. Lee,2023,1h 57m,R,6.9,Drama
+15. Kinds of Kindness,2024,2h 44m,R,9.3,Drama
+16. Sinners,2025,N/A,N/A,7.1,Drama
+17. The Fall Guy,2024,2h 6m,PG-13,7.6,Drama
+18. The Shawshank Redemption,1994,2h 22m,R,5.8,Drama
+19. Saturday Night,2024,1h 49m,R,6.7,Drama
+20. Gifted,2017,1h 41m,PG-13,8.4,Drama
+21. I Saw the TV Glow,2024,1h 40m,PG-13,7.2,Drama
+22. Horizon: An American Saga - Chapter 1,2024,3h 1m,R,8.0,Drama
+23. Joker,2019,2h 2m,R,N/A,Drama
+24. Challengers,2024,2h 11m,R,N/A,Drama
+25. Anora,2024,2h 19m,R,N/A,Drama
+Recently viewed,N/A,N/A,N/A,N/A,Drama
+1. Transformers One,2024,1h 44m,PG,7.8,Family
+2. Inside Out 2,2024,1h 36m,PG,7.7,Family
+3. Harry Potter and the Sorcerer's Stone,2001,2h 32m,PG,7.6,Family
+4. The Garfield Movie,2024,1h 41m,PG,5.7,Family
+5. Sonic the Hedgehog 3,2024,N/A,N/A,8.1,Family
+6. Inside Out,2015,1h 35m,PG,6.8,Family
+7. Hook,1991,2h 22m,PG,6.2,Family
+8. Despicable Me 4,2024,1h 34m,PG,6.5,Family
+9. IF,2024,1h 44m,PG,7.7,Family
+10. Harry Potter and the Goblet of Fire,2005,2h 37m,PG-13,6.9,Family
+11. Hocus Pocus,1993,1h 36m,PG,8.1,Family
+12. Harry Potter and the Deathly Hallows: Part 2,2011,2h 10m,PG-13,7.9,Family
+13. The Nightmare Before Christmas,1993,1h 16m,PG,7.3,Family
+14. The Secret Garden,1993,1h 41m,G,7.9,Family
+15. Harry Potter and the Prisoner of Azkaban,2004,2h 22m,PG,7.7,Family
+16. The Goonies,1985,1h 54m,PG,7.8,Family
+17. Coraline,2009,1h 40m,PG,4.7,Family
+18. Descendants: The Rise of Red,2024,1h 31m,TV-G,8.2,Family
+19. Flow,2024,1h 24m,PG,6.5,Family
+20. Sister Act,1992,1h 40m,PG,7.4,Family
+21. The Forge,2024,2h 4m,PG,7.0,Family
+22. Wonka,2023,1h 56m,PG,8.0,Family
+23. Moana 2,2024,N/A,N/A,8.5,Family
+24. The Princess Bride,1987,1h 38m,PG,N/A,Family
+25. The Lion King,1994,1h 28m,G,N/A,Family
+Recently viewed,N/A,N/A,N/A,N/A,Family
+1. Thunderbolts*,2025,N/A,N/A,7.0,Fantasy
+2. Beetlejuice Beetlejuice,2024,1h 45m,PG-13,5.1,Fantasy
+3. Megalopolis,2024,2h 18m,R,7.8,Fantasy
+4. Transformers One,2024,1h 44m,PG,7.7,Fantasy
+5. Inside Out 2,2024,1h 36m,PG,4.7,Fantasy
+6. Uglies,2024,1h 40m,PG-13,7.5,Fantasy
+7. Beetlejuice,1988,1h 32m,PG,7.6,Fantasy
+8. Red One,2024,2h 3m,PG-13,4.7,Fantasy
+9. Harry Potter and the Sorcerer's Stone,2001,2h 32m,PG,5.7,Fantasy
+10. The Crow,2024,1h 51m,R,8.9,Fantasy
+11. The Garfield Movie,2024,1h 41m,PG,8.1,Fantasy
+12. The Lord of the Rings: The Fellowship of the Ring,2001,2h 58m,PG-13,6.8,Fantasy
+13. Sonic the Hedgehog 3,2024,N/A,N/A,5.7,Fantasy
+14. Inside Out,2015,1h 35m,PG,6.1,Fantasy
+15. Hook,1991,2h 22m,PG,7.2,Fantasy
+16. The Watchers,2024,1h 42m,PG-13,7.5,Fantasy
+17. Nosferatu,2024,2h 12m,N/A,6.5,Fantasy
+18. Ghostbusters: Frozen Empire,2024,1h 55m,PG-13,7.5,Fantasy
+19. Dungeons & Dragons: Honor Among Thieves,2023,2h 14m,PG-13,7.9,Fantasy
+20. Mickey 17,2025,2h 19m,R,N/A,Fantasy
+21. The Crow,1994,1h 42m,R,N/A,Fantasy
+22. IF,2024,1h 44m,PG,N/A,Fantasy
+23. The Boy and the Heron,2023,2h 4m,PG-13,N/A,Fantasy
+24. Superman,2025,N/A,N/A,N/A,Fantasy
+25. The Life of Chuck,2024,1h 50m,N/A,N/A,Fantasy
+Recently viewed,N/A,N/A,N/A,N/A,Fantasy
+1. The Big Sleep,1946,1h 54m,Approved,7.9,Film-noir
+2. Split Second,1953,1h 25m,Approved,6.8,Film-noir
+3. Sunset Boulevard,1950,1h 50m,Approved,8.4,Film-noir
+4. The Third Man,1949,1h 33m,Approved,8.1,Film-noir
+5. The Red House,1947,1h 40m,Approved,6.7,Film-noir
+6. The Night of the Hunter,1955,1h 32m,Approved,8.0,Film-noir
+7. Cry Wolf,1947,1h 23m,Approved,6.6,Film-noir
+8. Strangers on a Train,1951,1h 41m,PG,7.9,Film-noir
+9. The Lady from Shanghai,1947,1h 27m,Approved,7.5,Film-noir
+10. Touch of Evil,1958,1h 35m,PG-13,8.0,Film-noir
+11. Double Indemnity,1944,1h 47m,Approved,8.3,Film-noir
+12. Gilda,1946,1h 50m,Approved,7.6,Film-noir
+13. The Maltese Falcon,1941,1h 40m,Approved,7.9,Film-noir
+14. Somewhere in the Night,1946,1h 50m,Approved,7.0,Film-noir
+15. The Killing,1956,1h 24m,Approved,7.9,Film-noir
+16. Notorious,1946,1h 42m,Approved,7.9,Film-noir
+17. To Have and Have Not,1944,1h 40m,Approved,7.8,Film-noir
+18. In a Lonely Place,1950,1h 34m,Approved,7.9,Film-noir
+19. Key Largo,1948,1h 40m,Approved,7.7,Film-noir
+20. Out of the Past,1947,1h 37m,Approved,8.0,Film-noir
+21. They Drive by Night,1940,1h 35m,Approved,7.2,Film-noir
+22. I Died a Thousand Times,1955,1h 49m,Approved,6.4,Film-noir
+23. Spellbound,1945,1h 51m,Approved,7.5,Film-noir
+24. Laura,1944,1h 28m,Approved,7.9,Film-noir
+25. Scarface,1932,1h 33m,PG,7.7,Film-noir
+Recently viewed,N/A,N/A,N/A,N/A,Film-noir
+1. Hands on a Hardbody: The Documentary,1997,1h 38m,PG,7.6,Game-show
+2. The Netflix Slam,2024,2h 30m,TV-MA,7.0,Game-show
+3. Fractures 2,2020,1h 20m,N/A,8.1,Game-show
+4. UnEarthed,2023,11m,N/A,8.0,Game-show
+5. Fractures,2018,1h 20m,N/A,6.7,Game-show
+6. Worlds Apart,2020,45m,N/A,2.9,Game-show
+7. Million Dollar Razzle Dazzle,2022,1h 13m,N/A,8.6,Game-show
+8. Semau gue,1977,1h 31m,N/A,N/A,Game-show
+9. The Gamer and the Mouth,2023,N/A,N/A,N/A,Game-show
+10. I Am an Alien,1990,N/A,N/A,N/A,Game-show
+11. Anything,2022,1h 21m,N/A,N/A,Game-show
+12. Country Cuties: Barnyard Bash,2014,N/A,N/A,N/A,Game-show
+13. In Bax,2015,N/A,N/A,N/A,Game-show
+14. Level 48,2015,46m,N/A,N/A,Game-show
+15. Ehrlich Brothers - Magie - Träume erleben,2014,1h 30m,N/A,N/A,Game-show
+16. 2062,2024,45m,N/A,N/A,Game-show
+17. Mamak Cupcake,2014,1h 7m,N/A,N/A,Game-show
+18. The Falcon Feud,2023,N/A,N/A,N/A,Game-show
+19. Vegas Vikings,1h,N/A,N/A,N/A,Game-show
+20. Ultimate crown (MrBeast VS Ninja),2023,N/A,N/A,N/A,Game-show
+21. Final Match. Khatuadanga Football Xi Vs Durbadanga Football Xi.,2022,1h 38m,N/A,N/A,Game-show
+22. Meta Mogul Challenge,2022,N/A,N/A,N/A,Game-show
+23. Game of Gabar,N/A,N/A,N/A,N/A,Game-show
+24. 100 Minecraft Players Simulate a Space Civilization,N/A,N/A,N/A,N/A,Game-show
+25. QueerX Awards 2022,N/A,N/A,N/A,N/A,Game-show
+Recently viewed,N/A,N/A,N/A,N/A,Game-show
+1. Lee,2023,1h 57m,R,7.0,History
+2. Saturday Night,2024,1h 49m,R,7.1,History
+3. Oppenheimer,2023,3h,R,8.3,History
+4. The Apprentice,2024,2h,R,6.5,History
+5. Reagan,2024,2h 21m,PG-13,7.3,History
+6. The Last Duel,2021,2h 32m,R,7.4,History
+7. Small Things Like These,2024,1h 38m,PG-13,9.0,History
+8. Schindler's List,1993,3h 15m,R,7.8,History
+9. Tombstone,1993,2h 10m,R,7.0,History
+10. Wicked Little Letters,2023,1h 40m,R,8.0,History
+11. Blitz,2024,2h,PG-13,7.1,History
+12. The Count of Monte-Cristo,2024,2h 58m,N/A,7.6,History
+13. Babylon,2022,3h 9m,R,6.4,History
+14. Killers of the Flower Moon,2023,3h 26m,R,5.8,History
+15. Napoleon,2023,2h 38m,R,8.1,History
+16. Queer,2024,2h 15m,N/A,7.4,History
+17. Hacksaw Ridge,2016,2h 19m,R,7.3,History
+18. Michael,2025,N/A,N/A,7.0,History
+19. The Zone of Interest,2023,1h 45m,PG-13,7.6,History
+20. Kingdom of Heaven,2005,2h 24m,R,7.5,History
+21. The Northman,2022,2h 17m,R,8.2,History
+22. Sound of Freedom,2023,2h 11m,PG-13,5.3,History
+23. One Life,2023,1h 49m,PG,N/A,History
+24. 1917,2019,1h 59m,R,N/A,History
+25. Caligula,1979,2h 36m,X,N/A,History
+Recently viewed,N/A,N/A,N/A,N/A,History
+1. The Substance,2024,2h 21m,R,7.9,Horror
+2. Beetlejuice Beetlejuice,2024,1h 45m,PG-13,7.0,Horror
+3. Speak No Evil,2024,1h 50m,R,7.0,Horror
+4. Longlegs,2024,1h 41m,R,6.7,Horror
+5. Alien: Romulus,2024,1h 59m,R,7.4,Horror
+6. Never Let Go,2024,1h 41m,R,5.7,Horror
+7. Trap,2024,1h 45m,PG-13,6.0,Horror
+8. Terrifier 3,2024,2h 5m,Not Rated,7.0,Horror
+9. Sinners,2025,N/A,N/A,5.8,Horror
+10. Apartment 7A,2024,1h 44m,R,7.4,Horror
+11. Stree 2: Sarkate Ka Aatank,2024,2h 27m,N/A,4.7,Horror
+12. The Crow,2024,1h 51m,R,5.8,Horror
+13. I Saw the TV Glow,2024,1h 40m,PG-13,4.8,Horror
+14. Hellboy: The Crooked Man,2024,1h 39m,R,5.9,Horror
+15. Cuckoo,2024,1h 42m,R,7.4,Horror
+16. Strange Darling,2023,1h 37m,R,6.6,Horror
+17. Speak No Evil,2022,1h 37m,Not Rated,6.3,Horror
+18. A Quiet Place: Day One,2024,1h 39m,PG-13,5.9,Horror
+19. 28 Years Later,2025,N/A,N/A,4.5,Horror
+20. Salem's Lot,2024,1h 53m,R,7.3,Horror
+21. Succubus,2024,1h 43m,N/A,5.1,Horror
+22. Poltergeist,1982,1h 54m,PG,6.3,Horror
+23. Afraid,2024,1h 24m,PG-13,5.1,Horror
+24. MaXXXine,2024,1h 43m,R,N/A,Horror
+25. The Deliverance,2024,1h 52m,R,N/A,Horror
+Recently viewed,N/A,N/A,N/A,N/A,Horror
+1. Maria,2024,2h 4m,R,6.2,Music
+2. Whiplash,2014,1h 46m,R,8.5,Music
+3. Back to Black,2024,2h 2m,R,6.3,Music
+4. Dinner in America,2020,1h 46m,N/A,7.4,Music
+5. Descendants: The Rise of Red,2024,1h 31m,TV-G,4.7,Music
+6. Sister Act,1992,1h 40m,PG,6.5,Music
+7. Michael,2025,N/A,N/A,8.2,Music
+8. Green Book,2018,2h 10m,PG-13,7.2,Music
+9. School of Rock,2003,1h 49m,PG-13,8.4,Music
+10. Coco,2017,1h 45m,PG,8.0,Music
+11. La La Land,2016,2h 8m,PG-13,7.6,Music
+12. A Star Is Born,2018,2h 16m,R,7.5,Music
+13. Baby Driver,2017,1h 53m,R,7.9,Music
+14. Almost Famous,2000,2h 2m,R,8.1,Music
+15. Jung Kook: I Am Still,2024,1h 30m,N/A,7.1,Music
+16. Dirty Dancing,1987,1h 40m,PG-13,8.4,Music
+17. Amadeus,1984,2h 40m,PG,8.5,Music
+18. The Pianist,2002,2h 30m,R,7.1,Music
+19. A Complete Unknown,2024,N/A,N/A,7.0,Music
+20. Pitch Perfect,2012,1h 52m,PG-13,7.2,Music
+21. That Thing You Do!,1996,1h 48m,PG,6.5,Music
+22. 8 Mile,2002,1h 50m,R,6.3,Music
+23. Priscilla,2023,1h 53m,R,6.7,Music
+24. Find Me Falling,2024,1h 33m,TV-MA,N/A,Music
+25. Empire Records,1995,1h 30m,PG-13,N/A,Music
+Recently viewed,N/A,N/A,N/A,N/A,Music
+1. Joker: Folie à Deux,2024,2h 18m,R,5.5,Musical
+2. Emilia Pérez,2024,2h 10m,R,7.4,Musical
+3. Wicked,2024,PG,N/A,7.9,Musical
+4. The Nightmare Before Christmas,1993,1h 16m,PG,4.7,Musical
+5. Descendants: The Rise of Red,2024,1h 31m,TV-G,7.0,Musical
+6. Wonka,2023,1h 56m,PG,8.5,Musical
+7. Moana 2,2024,N/A,N/A,7.2,Musical
+8. The Lion King,1994,1h 28m,G,7.4,Musical
+9. Grease,1978,1h 50m,PG,8.0,Musical
+10. Mufasa: The Lion King,2024,PG,N/A,7.5,Musical
+11. The Rocky Horror Picture Show,1975,1h 40m,R,7.3,Musical
+12. La La Land,2016,2h 8m,PG-13,8.1,Musical
+13. The Greatest Showman,2017,1h 45m,PG,7.0,Musical
+14. Sweeney Todd: The Demon Barber of Fleet Street,2007,1h 56m,R,5.6,Musical
+15. The Wizard of Oz,1939,1h 42m,G,7.4,Musical
+16. Snow White,2025,N/A,N/A,7.3,Musical
+17. Oklahoma!,1955,2h 25m,G,7.6,Musical
+18. Mean Girls,2024,1h 52m,PG-13,7.2,Musical
+19. Corpse Bride,2005,1h 17m,PG,6.7,Musical
+20. Labyrinth,1986,1h 41m,PG,8.1,Musical
+21. Moana,2016,1h 47m,PG,7.2,Musical
+22. The Prince of Egypt,1998,1h 39m,PG,N/A,Musical
+23. Charlie and the Chocolate Factory,2005,1h 55m,PG,N/A,Musical
+24. The Sound of Music,1965,2h 52m,G,N/A,Musical
+25. The Little Mermaid,2023,2h 15m,PG,N/A,Musical
+Recently viewed,N/A,N/A,N/A,N/A,Musical
+1. Blink Twice,2024,1h 42m,R,6.6,Mystery
+2. The Batman,2022,2h 56m,PG-13,7.8,Mystery
+3. Killer Heat,2024,1h 37m,R,5.6,Mystery
+4. Red One,2024,2h 3m,PG-13,6.0,Mystery
+5. Trap,2024,1h 45m,PG-13,5.9,Mystery
+6. Cuckoo,2024,1h 42m,R,5.1,Mystery
+7. Afraid,2024,1h 24m,PG-13,6.3,Mystery
+8. Babygirl,2024,1h 54m,R,5.7,Mystery
+9. The Watchers,2024,1h 42m,PG-13,6.5,Mystery
+10. Nosferatu,2024,2h 12m,N/A,8.6,Mystery
+11. X,2022,1h 45m,R,6.2,Mystery
+12. Se7en,1995,2h 7m,R,7.2,Mystery
+13. The Instigators,2024,1h 41m,R,5.1,Mystery
+14. Murder on the Orient Express,1974,2h 8m,PG,7.7,Mystery
+15. Long Gone Heroes,2024,1h 32m,R,7.1,Mystery
+16. Harry Potter and the Goblet of Fire,2005,2h 37m,PG-13,8.2,Mystery
+17. Midsommar,2019,2h 28m,R,6.4,Mystery
+18. Prisoners,2013,2h 33m,R,6.5,Mystery
+19. Leave the World Behind,2023,2h 18m,R,4.9,Mystery
+20. Smile,2022,1h 55m,R,7.4,Mystery
+21. A Serbian Film,2010,1h 44m,NC-17,8.1,Mystery
+22. Scream,1996,1h 51m,R,8.6,Mystery
+23. Harry Potter and the Deathly Hallows: Part 2,2011,2h 10m,PG-13,N/A,Mystery
+24. Smile 2,2024,2h 12m,R,N/A,Mystery
+25. The Green Mile,1999,3h 9m,R,N/A,Mystery
+Recently viewed,N/A,N/A,N/A,N/A,Mystery
+1. Beyond Utopia,2023,1h 55m,PG-13,7.9,News
+2. No Safe Spaces,2019,1h 40m,PG-13,7.1,News
+3. The First Born,2016,1h 36m,PG,8.2,News
+"4. Food, Inc. 2",2023,1h 34m,N/A,6.7,News
+"5. Food, Inc.",2008,1h 34m,PG,7.8,News
+6. A Storm Foretold,2023,1h 30m,N/A,7.7,News
+7. Racing Extinction,2015,1h 30m,Not Rated,8.2,News
+8. I'm Not Racist... Am I?,2014,1h 33m,N/A,4.0,News
+9. Requiem for the American Dream,2015,1h 13m,Not Rated,8.0,News
+10. Born Into Brothels: Calcutta's Red Light Kids,2004,1h 25m,R,7.2,News
+11. The Mask You Live In,2015,1h 37m,Not Rated,7.6,News
+12. The True Cost,2015,1h 32m,PG-13,7.7,News
+13. Korengal,2014,1h 24m,R,6.7,News
+14. Cameraperson,2016,1h 42m,Not Rated,7.4,News
+15. While We Watched,2022,1h 34m,N/A,8.6,News
+16. The Square,2013,1h 35m,Not Rated,8.0,News
+17. Ukraine Is Not a Brothel,2013,1h 18m,Not Rated,6.1,News
+18. Four Horsemen,2012,1h 37m,Not Rated,7.7,News
+19. A Sexplanation,2021,1h 16m,TV-MA,7.2,News
+20. I Want to Live,2015,1h 46m,N/A,7.9,News
+21. #Models Wanted,2024,N/A,N/A,9.0,News
+22. How to Survive a Plague,2012,1h 50m,Not Rated,7.6,News
+23. Live from New York!,2015,1h 30m,Not Rated,6.8,News
+24. Alive Inside: A Story of Music and Memory,2014,1h 18m,Not Rated,8.2,News
+25. Impact After the Crash,2013,1h 22m,N/A,7.6,News
+Recently viewed,N/A,N/A,N/A,N/A,News
+1. La Narcosatánica,2023,1h,N/A,6.6,Reality-tv
+2. Meet Me in Rome,2024,N/A,N/A,5.2,Reality-tv
+3. The Jury: Murder Trial,2024,2h 10m,N/A,7.0,Reality-tv
+4. Sidemen Tinder in Real Life 4,2022,50m,N/A,7.5,Reality-tv
+5. Inside Helix,2020,N/A,N/A,7.3,Reality-tv
+"6. SDMU-075: Art Models Wanted, Nude Modeling, Shameful Art Classes",2014,2h 20m,TV-MA,9.3,Reality-tv
+7. Maria,2024,1h,N/A,3.5,Reality-tv
+8. Miss Fashion Global: The Quest for the Crown,2023,49m,N/A,8.9,Reality-tv
+9. Killing Crabs,2023,1h 46m,N/A,5.1,Reality-tv
+10. All Nude - Riri Nanatsumori,2020,1h 50m,N/A,3.5,Reality-tv
+11. Dead Hot: Season of the Witch,2023,1h 38m,N/A,7.0,Reality-tv
+12. The Netflix Slam,2024,2h 30m,TV-MA,7.3,Reality-tv
+13. Morning of the Earth,1972,1h 19m,N/A,3.8,Reality-tv
+14. Premier League 28. Matchday Manchester City vs Arsenal FC,2020,1h 44m,N/A,7.8,Reality-tv
+"15. My Mum, Your Dad UK",2023,N/A,N/A,5.7,Reality-tv
+16. Hikari: Sparkling Blue Sky Hikari Aozora,2020,1h 6m,N/A,1.1,Reality-tv
+17. Inquietus,2024,N/A,N/A,7.4,Reality-tv
+18. Dinner Party Diaries with José Andrés,2024,N/A,N/A,7.3,Reality-tv
+19. Your Smile Yui Hatano,2020,1h 19m,N/A,N/A,Reality-tv
+20. Chappelle's Home Team: Donnell Rawlings - A New Day,2024,40m,N/A,N/A,Reality-tv
+21. The Loneliest Boy on Earth,2024,2h 38m,N/A,N/A,Reality-tv
+22. The Kardashians: Reality Royalty,2020,N/A,N/A,N/A,Reality-tv
+23. Only You - Kana Morisawa,2020,1h 30m,N/A,N/A,Reality-tv
+24. As Armas e o Povo,1975,1h 18m,N/A,N/A,Reality-tv
+25. Castle Naturism,2019,1h,N/A,N/A,Reality-tv
+Recently viewed,N/A,N/A,N/A,N/A,Reality-tv
+1. It Ends with Us,2024,2h 10m,PG-13,6.6,Romance
+2. Killer Heat,2024,1h 37m,R,5.6,Romance
+3. The Crow,2024,1h 51m,R,4.7,Romance
+4. The Fall Guy,2024,2h 6m,PG-13,6.9,Romance
+5. Challengers,2024,2h 11m,R,7.2,Romance
+6. Anora,2024,2h 19m,R,8.0,Romance
+7. Poor Things,2023,2h 21m,R,7.8,Romance
+8. Hit Man,2023,1h 55m,R,6.8,Romance
+9. Titanic,1997,3h 14m,PG-13,7.9,Romance
+10. Anyone But You,2023,1h 43m,R,6.1,Romance
+11. We Live in Time,2024,1h 47m,R,7.6,Romance
+12. Love,2015,2h 15m,TV-MA,6.1,Romance
+13. The Prime of Miss Jean Brodie,1969,1h 56m,M/PG,7.6,Romance
+14. Emmanuelle,2024,1h 47m,N/A,4.7,Romance
+15. This Time Next Year,2024,1h 56m,N/A,5.6,Romance
+16. Fifty Shades of Grey,2015,2h 5m,R,4.2,Romance
+17. The Notebook,2004,2h 3m,PG-13,7.8,Romance
+18. Wicked,2024,PG,N/A,7.4,Romance
+19. Bram Stoker's Dracula,1992,2h 8m,R,8.8,Romance
+20. Forrest Gump,1994,2h 22m,PG-13,6.6,Romance
+21. Fly Me to the Moon,2024,2h 12m,PG-13,5.3,Romance
+22. Twilight,2008,2h 2m,PG-13,8.0,Romance
+23. The Count of Monte-Cristo,2024,2h 58m,N/A,6.7,Romance
+24. Love Lies Bleeding,2024,1h 44m,R,8.3,Romance
+25. Good Will Hunting,1997,2h 6m,R,N/A,Romance
+Recently viewed,N/A,N/A,N/A,N/A,Romance
+1. Thunderbolts*,2025,N/A,N/A,5.1,Sci-fi
+2. Megalopolis,2024,2h 18m,R,7.8,Sci-fi
+3. Transformers One,2024,1h 44m,PG,4.7,Sci-fi
+4. Uglies,2024,1h 40m,PG-13,7.9,Sci-fi
+5. Deadpool & Wolverine,2024,2h 8m,R,8.5,Sci-fi
+6. The Wild Robot,2024,1h 42m,PG,7.4,Sci-fi
+7. Alien: Romulus,2024,1h 59m,R,5.1,Sci-fi
+8. Subservience,2024,1h 46m,R,7.5,Sci-fi
+9. Furiosa: A Mad Max Saga,2024,2h 28m,R,8.7,Sci-fi
+10. Interstellar,2014,2h 49m,PG-13,5.7,Sci-fi
+11. Slingshot,2024,1h 48m,R,6.3,Sci-fi
+12. A Quiet Place: Day One,2024,1h 39m,PG-13,8.5,Sci-fi
+13. Dune: Part Two,2024,2h 46m,PG-13,7.8,Sci-fi
+14. Sonic the Hedgehog 3,2024,N/A,N/A,7.8,Sci-fi
+15. Jurassic World Rebirth,2025,N/A,N/A,5.1,Sci-fi
+16. Omni Loop,2024,1h 47m,N/A,4.5,Sci-fi
+17. Poor Things,2023,2h 21m,R,6.9,Sci-fi
+18. Afraid,2024,1h 24m,PG-13,6.2,Sci-fi
+19. Venom: The Last Dance,2024,1h 50m,N/A,6.1,Sci-fi
+20. Borderlands,2024,1h 41m,PG-13,8.5,Sci-fi
+21. Kingdom of the Planet of the Apes,2024,2h 25m,PG-13,N/A,Sci-fi
+22. Despicable Me 4,2024,1h 34m,PG,N/A,Sci-fi
+23. Ghostbusters: Frozen Empire,2024,1h 55m,PG-13,N/A,Sci-fi
+24. Alien,1979,1h 57m,R,N/A,Sci-fi
+25. Mickey 17,2025,2h 19m,R,N/A,Sci-fi
+Recently viewed,N/A,N/A,N/A,N/A,Sci-fi
+1. Challengers,2024,2h 11m,R,7.2,Sport
+2. Rez Ball,2024,1h 51m,PG-13,6.3,Sport
+3. The Iron Claw,2023,2h 12m,R,7.6,Sport
+4. Happy Gilmore,1996,1h 32m,PG-13,7.0,Sport
+5. Happy Gilmore 2,2006,1h 56m,G,7.2,Sport
+6. Cars,1984,2h 6m,PG,7.3,Sport
+7. The Karate Kid,2024,2h 9m,PG,7.6,Sport
+8. Young Woman and the Sea,2000,1h 53m,PG,7.8,Sport
+9. Remember the Titans,1976,2h,PG,8.1,Sport
+10. Rocky,1993,1h 41m,PG,7.8,Sport
+11. The Sandlot,1989,1h 47m,PG,7.5,Sport
+12. Field of Dreams,2024,1h 47m,PG-13,7.0,Sport
+13. Arthur the King,2024,2h 30m,TV-MA,6.4,Sport
+14. Boxer,2019,2h 32m,PG-13,8.1,Sport
+15. Ford v Ferrari,1980,1h 38m,R,7.2,Sport
+16. Caddyshack,2009,2h 9m,PG-13,7.6,Sport
+17. The Blind Side,2023,2h 10m,R,6.4,Sport
+18. Ferrari,2023,2h 3m,PG-13,7.0,Sport
+19. The Boys in the Boat,2025,N/A,N/A,6.4,Sport
+20. F1,2005,1h 53m,PG-13,5.4,Sport
+21. The Longest Yard,2024,1h 44m,PG,5.8,Sport
+22. You Gotta Believe,1987,1h 33m,PG,6.6,Sport
+23. Over the Top,2016,1h 51m,R,6.2,Sport
+24. Hands of Stone,1998,1h 30m,PG-13,N/A,Sport
+25. The Waterboy,N/A,N/A,N/A,N/A,Sport
+Recently viewed,N/A,N/A,N/A,N/A,Sport
+1. National Theatre Live: Dear England,2024,3h 11m,N/A,8.1,Talk-show
+2. An no Koto,2024,N/A,N/A,7.8,Talk-show
+3. Meksika Açmazi,2022,1h,N/A,7.5,Talk-show
+4. Anthony Rodia Totally Relatable,2024,1h 17m,N/A,6.3,Talk-show
+5. Ali & Cavett: The Tale of the Tapes,2018,1h 35m,Not Rated,7.2,Talk-show
+6. The First Family of Satan,2002,1h 30m,N/A,7.2,Talk-show
+7. Super Thieves Podcast,2021,N/A,N/A,8.6,Talk-show
+8. Men of Culture,2021,2h 4m,N/A,4.6,Talk-show
+9. Absolute Interference,1969,47m,N/A,6.1,Talk-show
+10. Journey Into Self,2018,1h 30m,N/A,6.3,Talk-show
+11. Montclair Film Festival: A Conversation with Ethan Hawke,2008,1h 23m,PG,6.3,Talk-show
+12. I Am an Alien,Not Rated,N/A,N/A,8.2,Talk-show
+13. Allah Made Me Funny: Live in Concert,2018,1h,N/A,6.8,Talk-show
+14. Cooking with the Stars,2023,1h 6m,N/A,4.6,Talk-show
+15. Tribeca Film Festival 2018: A Conversation with Sheila Nevins and Laura Poitras,2024,N/A,N/A,N/A,Talk-show
+16. Spirits of the Superstition Mountains,2023,N/A,N/A,N/A,Talk-show
+17. Darkman Audio Commentary with Josh Ruben,2024,N/A,N/A,N/A,Talk-show
+18. David Plante: Memoirs of a Pure Love,2020,1h 3m,N/A,N/A,Talk-show
+19. The Dangers of Social Media: A Step Ahead Tutoring Services,2020,1h 1m,N/A,N/A,Talk-show
+20. Hjelp! Vi lager filmpodcast: Vi elsker 2019,2021,1h 34m,N/A,N/A,Talk-show
+21. Wise Words in a Time of Change: That Will Improve Your Life,2023,N/A,N/A,N/A,Talk-show
+22. Fair Use and the Right of Publicity featuring Attorney Justin Sterling,2014,45m,N/A,N/A,Talk-show
+"23. Paris Hilton Live, Talk Shop Live TV",2021,40m,N/A,N/A,Talk-show
+24. Bats of the Round Table,N/A,N/A,N/A,N/A,Talk-show
+25. Origins of the Universe,N/A,N/A,N/A,N/A,Talk-show
+Recently viewed,N/A,N/A,N/A,N/A,Talk-show
+1. Wolfs,2024,1h 48m,R,6.5,Thriller
+2. Joker: Folie à Deux,2024,2h 18m,R,5.5,Thriller
+3. Blink Twice,2024,1h 42m,R,6.6,Thriller
+4. Speak No Evil,2024,1h 50m,R,7.0,Thriller
+5. Rebel Ridge,2024,2h 11m,TV-MA,6.9,Thriller
+6. The Batman,2022,2h 56m,PG-13,7.8,Thriller
+7. Killer Heat,2024,1h 37m,R,5.6,Thriller
+8. Civil War,2024,1h 49m,R,7.0,Thriller
+9. Longlegs,2024,1h 41m,R,6.7,Thriller
+10. Alien: Romulus,2024,1h 59m,R,7.4,Thriller
+11. Subservience,2024,1h 46m,R,5.1,Thriller
+12. Never Let Go,2024,1h 41m,R,5.7,Thriller
+13. Trap,2024,1h 45m,PG-13,6.0,Thriller
+14. Ballerina,2025,N/A,N/A,5.8,Thriller
+15. Sinners,2025,N/A,N/A,4.7,Thriller
+16. Apartment 7A,2024,1h 44m,R,7.5,Thriller
+17. The Crow,2024,1h 51m,R,6.9,Thriller
+18. Furiosa: A Mad Max Saga,2024,2h 28m,R,6.6,Thriller
+19. Eden,2024,2h,N/A,7.3,Thriller
+20. Twisters,2024,2h 2m,PG-13,8.4,Thriller
+21. Sector 36,2024,2h 3m,N/A,5.9,Thriller
+22. Joker,2019,2h 2m,R,7.4,Thriller
+23. Cuckoo,2024,1h 42m,R,6.6,Thriller
+24. Strange Darling,2023,1h 37m,R,N/A,Thriller
+25. Speak No Evil,2022,1h 37m,Not Rated,N/A,Thriller
+Recently viewed,N/A,N/A,N/A,N/A,Thriller
+1. Lee,2023,1h 57m,R,7.0,War
+2. The Ministry of Ungentlemanly Warfare,2024,2h 2m,R,6.8,War
+3. M*A*S*H,1970,1h 56m,R,7.4,War
+4. Grave of the Fireflies,1988,1h 28m,Not Rated,8.5,War
+5. Inglourious Basterds,2009,2h 33m,R,8.4,War
+6. Apocalypse Now,1979,2h 27m,R,8.4,War
+7. Blitz,2024,2h,PG-13,6.4,War
+8. Napoleon,2023,2h 38m,R,7.4,War
+9. Malena,2000,1h 48m,R,8.1,War
+10. Hacksaw Ridge,2016,2h 19m,R,6.7,War
+11. The Hunger Games: The Ballad of Songbirds & Snakes,2023,2h 37m,PG-13,7.4,War
+12. The Zone of Interest,2023,1h 45m,PG-13,7.3,War
+13. Kingdom of Heaven,2005,2h 24m,R,8.3,War
+14. Braveheart,1995,2h 58m,R,8.6,War
+15. Saving Private Ryan,1998,2h 49m,R,7.1,War
+16. Brothers,2009,1h 45m,R,8.3,War
+17. Incendies,2010,2h 11m,R,8.2,War
+18. 1917,2019,1h 59m,R,8.2,War
+19. Full Metal Jacket,1987,1h 56m,R,7.1,War
+20. Tropic Thunder,2008,1h 47m,R,8.3,War
+21. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,1h 35m,PG,7.6,War
+22. Fury,2014,2h 14m,R,7.5,War
+23. Guy Ritchie's the Covenant,2023,2h 3m,R,7.2,War
+24. White Bird,2023,2h,PG-13,8.4,War
+25. Come and See,1985,2h 22m,Not Rated,N/A,War
+Recently viewed,N/A,N/A,N/A,N/A,War
+1. Horizon: An American Saga - Chapter 1,2024,3h 1m,R,6.7,Western
+2. The Thicket,2024,1h 48m,R,5.7,Western
+3. Tombstone,1993,2h 10m,R,7.8,Western
+4. Django Unchained,2012,2h 45m,R,8.5,Western
+5. Killers of the Flower Moon,2023,3h 26m,R,7.6,Western
+6. Bone Tomahawk,2015,2h 12m,Not Rated,7.1,Western
+"7. The Good, the Bad and the Ugly",1966,2h 58m,R,8.8,Western
+8. Horizon: An American Saga - Chapter 2,2024,3h 10m,N/A,7.1,Western
+9. Wind River,2017,1h 47m,R,7.7,Western
+10. 3:10 to Yuma,2007,2h 2m,R,7.6,Western
+11. Oklahoma!,1955,2h 25m,G,7.0,Western
+12. Jeremiah Johnson,1972,1h 48m,GP,7.6,Western
+13. The Hateful Eight,2015,2h 48m,R,7.8,Western
+14. The Revenant,2015,2h 36m,R,8.0,Western
+15. Once Upon a Time in the West,1968,2h 46m,PG-13,8.5,Western
+16. The Last of the Mohicans,1992,1h 52m,R,7.6,Western
+17. The Shootist,1976,1h 40m,PG,7.6,Western
+18. Redeeming Love,2022,2h 14m,PG-13,6.7,Western
+19. Legends of the Fall,1994,2h 13m,R,7.5,Western
+20. Unforgiven,1992,2h 10m,R,8.2,Western
+21. The Magnificent Seven,2016,2h 12m,PG-13,6.9,Western
+22. The Dark Tower,2017,1h 35m,PG-13,5.6,Western
+23. Blazing Saddles,1974,1h 33m,R,7.7,Western
+24. Hell or High Water,2016,1h 42m,R,7.6,Western
+25. El Dorado,1966,2h 6m,Approved,7.5,Western
+Recently viewed,N/A,N/A,N/A,N/A,Western
